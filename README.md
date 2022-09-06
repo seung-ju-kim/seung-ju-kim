@@ -6,7 +6,7 @@
 <p>
   <em>
     <h3>
-    Welcome to my page, I'm Seung Ju Kim, Fullstack Engineer from Korea
+    Welcome to my page, I'm Seung Ju Kim, Frontend Engineer from Korea
     </h3>
   </em>
 </p>
